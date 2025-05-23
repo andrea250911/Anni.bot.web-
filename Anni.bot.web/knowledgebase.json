@@ -1,0 +1,108 @@
+{
+    "responses": [
+        {
+            "keywords": ["hola", "saludos", "hi"],
+            "answers": ["¡Hola! ¿En qué puedo ayudarte hoy?", "¡Saludos! ¿Tienes alguna duda académica?", "Hola, soy Anni. ¿Qué necesitas saber?"]
+        },
+        {
+            "keywords": ["quien eres", "eres", "tu nombre"],
+            "answers": ["Soy Anni, tu asistente académico para 2do año de secundaria.", "Me llamo Anni, estoy aquí para resolver tus dudas de estudio.", "Soy un chatbot, tu guía para tus estudios de secundaria."]
+        },
+        {
+            "keywords": ["matematicas", "matemática", "mates"],
+            "answers": ["Claro, ¿qué tema de matemáticas te interesa? (Ej: ecuaciones, fracciones, geometría, álgebra)", "Pregúntame sobre matemáticas. ¿Tienes algo específico en mente?", "En matemáticas, ¿qué te está causando dudas?"]
+        },
+        {
+            "keywords": ["ecuaciones"],
+            "answers": ["Las ecuaciones son igualdades donde hay una o varias incógnitas. ¿Quieres un ejemplo o cómo resolverlas?", "Una ecuación es una afirmación de que dos expresiones son iguales. ¿Quieres practicar con alguna?", "Para resolver ecuaciones, el objetivo es aislar la incógnita. ¿Te explico algún método?"]
+        },
+        {
+            "keywords": ["fracciones"],
+            "answers": ["Las fracciones representan partes de un todo. ¿Deseas saber cómo sumarlas, restarlas, multiplicarlas o dividirlas?", "Las fracciones tienen numerador y denominador. ¿Cuál es tu duda?", "Podemos repasar las operaciones básicas con fracciones si quieres."]
+        },
+        {
+            "keywords": ["geometria", "geometría"],
+            "answers": ["La geometría estudia las formas y las propiedades del espacio. ¿Necesitas ayuda con áreas, volúmenes, o figuras?", "¿Qué figura geométrica te interesa? (ej: triángulo, cuadrado, círculo)", "En geometría vemos puntos, líneas, planos y sólidos. ¿Sobre qué quieres saber más?"]
+        },
+        {
+            "keywords": ["ciencias naturales", "ciencia", "ciencias"],
+            "answers": ["En Ciencias Naturales podemos hablar de biología, química o física. ¿Qué tema te interesa?", "La ciencia es fascinante. ¿Qué área de las Ciencias Naturales quieres explorar?", "Estoy lista para ayudarte con biología, química o física."]
+        },
+        {
+            "keywords": ["biologia", "biología"],
+            "answers": ["La biología estudia la vida. ¿Qué quieres saber sobre plantas, animales, el cuerpo humano, o la célula?", "¿Dudas sobre ecosistemas, genética, o la clasificación de seres vivos?", "La biología es muy amplia, ¿qué parte te gustaría entender mejor?"]
+        },
+        {
+            "keywords": ["quimica", "química"],
+            "answers": ["La química estudia la materia y sus transformaciones. ¿Te gustaría saber sobre elementos, compuestos, reacciones, o la tabla periódica?", "¿Tienes preguntas sobre átomos, moléculas o mezclas?", "Exploremos el mundo de la química. ¿Qué te confunde?"]
+        },
+        {
+            "keywords": ["fisica", "física"],
+            "answers": ["La física estudia la energía y sus interacciones. ¿Tienes dudas sobre movimiento, fuerzas, electricidad, o sonido?", "¿Qué concepto de física te resulta difícil?", "La física explica cómo funciona el universo. ¿Qué fenómeno te interesa?"]
+        },
+        {
+            "keywords": ["historia"],
+            "answers": ["¿Qué período o evento histórico te gustaría repasar? (Ej: Conquista, Independencia, Edad Media, Guerras Mundiales)", "La historia es el estudio del pasado. ¿Qué época te intriga?", "Podemos viajar a cualquier punto de la historia. ¿Qué te interesa saber?"]
+        },
+        {
+            "keywords": ["lenguaje", "literatura", "idioma"],
+            "answers": ["¿Necesitas ayuda con gramática, ortografía, redacción, o análisis de textos?", "¿Qué tema de lenguaje te gustaría mejorar?", "El lenguaje es fundamental. ¿Hay algo de gramática o literatura que quieras repasar?"]
+        },
+        {
+            "keywords": ["gramatica", "gramática"],
+            "answers": ["La gramática estudia la estructura de las palabras y oraciones. ¿Tienes alguna pregunta específica sobre verbos, sustantivos, adjetivos?", "¿Dudas con las reglas gramaticales? Te puedo ayudar.", "Repasemos las partes de la oración o la conjugación verbal."]
+        },
+        {
+            "keywords": ["ortografia", "ortografía"],
+            "answers": ["La ortografía es crucial para escribir bien. ¿Qué regla te gustaría recordar? (Ej: uso de la 'h', 'b' y 'v', acentuación)", "¿Tienes dudas con alguna palabra específica?", "Podemos practicar las reglas de acentuación o puntuación."]
+        },
+        {
+            "keywords": ["teorema de pitagoras", "pitagoras"],
+            "answers": ["El Teorema de Pitágoras establece que en todo triángulo rectángulo, el cuadrado de la hipotenusa (el lado más largo) es igual a la suma de los cuadrados de los catetos (los otros dos lados). Se expresa como a² + b² = c².", "Aplica el Teorema de Pitágoras solo en triángulos rectángulos.", "Para encontrar la hipotenusa o un cateto en un triángulo rectángulo, usa a² + b² = c²."]
+        },
+        {
+            "keywords": ["fotosintesis", "fotosíntesis"],
+            "answers": ["La fotosíntesis es el proceso mediante el cual las plantas, algas y algunas bacterias transforman la energía de la luz solar en energía química (glucosa) y liberan oxígeno. Es vital para la vida en la Tierra.", "Las plantas realizan fotosíntesis usando dióxido de carbono, agua y luz solar.", "La clorofila, pigmento verde, es fundamental en la fotosíntesis."]
+        },
+        {
+            "keywords": ["que es un sustantivo", "sustantivo"],
+            "answers": ["Un sustantivo es una palabra que nombra personas, animales, cosas, ideas o lugares. Son el núcleo de una oración.", "Ejemplos de sustantivos son: casa, perro, María, amor, Venezuela.", "Los sustantivos pueden ser comunes o propios, individuales o colectivos, concretos o abstractos."]
+        },
+        {
+            "keywords": ["cambio climatico", "cambio climático"],
+            "answers": ["El cambio climático se refiere a los cambios a largo plazo en las temperaturas y los patrones climáticos globales. Principalmente es causado por las actividades humanas que aumentan los gases de efecto invernadero en la atmósfera.", "El efecto invernadero es un proceso natural, pero las emisiones humanas lo han intensificado.", "Las consecuencias del cambio climático incluyen aumento del nivel del mar, eventos climáticos extremos y pérdida de biodiversidad."]
+        },
+        {
+            "keywords": ["ecuacion cuadratica", "ecuación cuadrática"],
+            "answers": ["Una ecuación cuadrática es una ecuación polinómica de segundo grado, con la forma ax² + bx + c = 0, donde 'a' no es cero. Se puede resolver con la fórmula general.", "La fórmula general para resolver ecuaciones cuadráticas es: x = [-b ± sqrt(b² - 4ac)] / 2a.", "Las ecuaciones cuadráticas pueden tener dos soluciones, una o ninguna solución real."]
+        },
+        {
+            "keywords": ["la celula", "célula"],
+            "answers": ["La célula es la unidad básica, estructural y funcional de todo ser vivo. Hay células procariotas (sin núcleo definido) y eucariotas (con núcleo definido).", "Cada célula contiene material genético y es capaz de realizar todas las funciones vitales.", "Los organelos celulares son estructuras dentro de la célula que cumplen funciones específicas."]
+        },
+        {
+            "keywords": ["revolucion francesa", "revolución francesa"],
+            "answers": ["La Revolución Francesa fue un conflicto social y político que se inició en 1789 y convulsionó Francia, con profundas consecuencias en Europa y el mundo. Terminó con el ascenso de Napoleón Bonaparte.", "Sus principales causas fueron la desigualdad social, la crisis económica y las ideas de la Ilustración.", "La toma de la Bastilla el 14 de julio de 1789 es un símbolo clave de la Revolución Francesa."]
+        },
+        {
+            "keywords": ["sinonimos y antonimos", "sinonimo", "antonimo"],
+            "answers": ["Los sinónimos son palabras con significado similar (ej: bello/hermoso, rápido/veloz). Los antónimos son palabras con significado opuesto (ej: grande/pequeño, día/noche).", "Conocer sinónimos y antónimos enriquece tu vocabulario.", "Los sinónimos nos ayudan a evitar repeticiones, mientras que los antónimos expresan contraste."]
+        },
+        {
+            "keywords": ["gracias"],
+            "answers": ["De nada, ¡estoy para servirte!", "Es un placer ayudarte.", "¡Con gusto! Cualquier otra duda, aquí estoy."]
+        },
+        {
+            "keywords": ["adios", "chao", "hasta luego"],
+            "answers": ["¡Hasta pronto! Si tienes más dudas, no dudes en preguntar.", "¡Adiós! Que tengas un buen día de estudio.", "Nos vemos. ¡Mucha suerte con tus tareas!"]
+        },
+        {
+            "keywords": ["ejemplo"],
+            "answers": ["Dame un tema específico y te doy un ejemplo.", "¿De qué quieres un ejemplo?", "Necesito saber de qué quieres un ejemplo para poder dártelo."]
+        },
+        {
+            "keywords": ["ayuda"],
+            "answers": ["Claro, ¿en qué te puedo ayudar? Sé lo más específico posible.", "¿Qué duda tienes?", "Estoy aquí para ayudarte, pregúntame lo que necesites."]
+        }
+    ]
+}
